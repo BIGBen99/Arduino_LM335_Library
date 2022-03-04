@@ -1,4 +1,0 @@
-LM335	KEYWORD1
-getKelvin	KEYWORD2
-getCelcius	KEYWORD2
-getFahrenheit	KEYWORD2
