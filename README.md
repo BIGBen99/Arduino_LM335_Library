@@ -3,14 +3,14 @@ Arduino library for LM335 temperature sensor
 
 Datasheet : https://www.ti.com/lit/ds/symlink/lm335.pdf
 
-================================================================================
+===========================================================================
 # LM335(pin)
 # Description
 A call to LM335(pin) creates a new LM335 object.
 # Parameters
 pin: the analog pin (A0-A6) on which to receive temperature information
 
-================================================================================
+===========================================================================
 # LM335: getKelvin
 # Description
 Return a float that represents temperature in Kelvin
@@ -19,7 +19,7 @@ Return a float that represents temperature in Kelvin
 # Returns
 a float that represents temperature in Kelvin
 
-================================================================================
+===========================================================================
 # LM335: getCelcius
 # Description
 Return a float that represents temperature in Celsius
@@ -28,7 +28,7 @@ Return a float that represents temperature in Celsius
 # Returns
 a float that represents temperature in Celsius
 
-================================================================================
+===========================================================================
 # LM335: getFahrenheit
 # Description
 Return a float that represents temperature in Farenheit
@@ -37,7 +37,7 @@ Return a float that represents temperature in Farenheit
 # Returns
 a float that represents temperature in Farenheit
 
-================================================================================
+===========================================================================
 # Example
 <pre>
 &#35;include &lt;LM335.h&gt;
